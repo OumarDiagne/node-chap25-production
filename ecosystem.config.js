@@ -3,7 +3,7 @@ module.exports = {
     {
       name: "twitter",
       script: "./bin/www",
-      instances: 8,
+      instances: 21,
       autorestart: true,
       watch: ".",
       env: {
